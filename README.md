@@ -21,5 +21,4 @@ html pages required for index page.
 | --------- | --------- | --------- |
 | IE/Edge| last version| last version|
 
-Perhaps all browsers are supported. <br>
-I've only tested the above list.
+Perhaps all browsers are supported.
