@@ -20,7 +20,8 @@
 	<!--
 	<script type = "text/javascript">
 		if (screen.width <= 699) {
-		document.location = "https://m.ipaddr.online";}
+		document.location = "https://m.ipaddr.online";
+		}
 	</script>
 	-->
 </head>
