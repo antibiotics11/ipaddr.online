@@ -47,7 +47,7 @@
 	<div id = "contents">
 	<?php 
 		if ($_GET['menu'] == 'main') {
-			include './pages/main.php';
+			require './pages/main.php';
 		} else if ($_GET['menu'] == 'info') {
 			require './pages/info.html';
 		} else if ($_GET['menu'] == 'notice') {
