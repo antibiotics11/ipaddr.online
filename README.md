@@ -3,16 +3,6 @@
 ## General Info
 A tiny website that tells your public ip address.
 
-## Directory
-### /index.php
-index page.
-
-### /css/
-stylesheet for index page.
-
-### /pages/
-html pages required for index page.
-
 ## Browser Support
 
 | IE/Edge | Firefox | Duckduckgo |
