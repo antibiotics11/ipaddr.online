@@ -1,9 +1,7 @@
 # ipaddr.online
 
-My first web application, ipaddr.online
-
 ## General Info
-A simple website that tells your public ip address.
+A tiny website that tells your public ip address.
 
 ## Directory
 ### /index.php
