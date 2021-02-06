@@ -16,14 +16,11 @@
 	<link rel = "preconnect" href = "https://fonts.gstatic.com">
 	<link href = "https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel = "stylesheet"> 
 	
-	<!-- Javascript -->
-	<!--
 	<script type = "text/javascript">
 		if (screen.width <= 699) {
-		document.location = "https://m.ipaddr.online";
+			document.location = "https://m.ipaddr.online";
 		}
 	</script>
-	-->
 </head>
 	
 <body>

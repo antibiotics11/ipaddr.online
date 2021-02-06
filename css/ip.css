@@ -1,10 +1,6 @@
-/* 공통 요소 */
-
 body {
 	font-family: 'Nanum Gothic';
 }
-
-/* head 및 하위 요소 */
 
 #head {
 	margin-left: 10%;
@@ -34,8 +30,6 @@ body {
 	position: relative;
 	top: 1px;
 }
-
-/* contents 및 하위 요소 */
 
 #contents {
 	text-align: center;
@@ -81,9 +75,6 @@ body {
 	position: relative;
 	top: 1px;
 }
-	
-
-/* footer 및 하위 요소 */
 
 #footer {
 	position: fixed;

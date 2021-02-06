@@ -1,6 +1,8 @@
 <?php
     $ip = $_SERVER['REMOTE_ADDR'];
-    $clientinfo = $_SERVER['HTTP_USER_AGENT'];
+    #$clientinfo = $_SERVER['HTTP_USER_AGENT'];
+	
+	# Get ISP info from ipinfo.io
     $org = trim(file_get_contents("https://ipinfo.io/{$ip}/org"));
     $org = preg_replace("/[0-9]/","", $org);
     $isp = str_replace(array("AS", "/[^a-z]/i"),'',$org);
