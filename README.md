@@ -6,10 +6,8 @@
 ## Info (English)
 A tiny website that tells your public ip address.
 
-## Browser Support
+https://ipaddr.online (PC Ver) <br>
+https://m.ipaddr.online (Moblie Ver) <br>
+https://v6.ipaddr.online (IPv6 Ver) <br>
 
-| IE/Edge | Firefox | Duckduckgo |
-| --------- | --------- | --------- |
-| IE/Edge| last version| last version|
-
-Perhaps all browsers are supported.
+![ip](https://user-images.githubusercontent.com/75349747/107113744-30f1a480-68a4-11eb-996c-00dc18bb03e6.PNG)
